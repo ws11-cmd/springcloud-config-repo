@@ -1,5 +1,4 @@
-server:
-  port: 8101
 my:
-  message: "Hello from Dev Environment!"
-  version: 1.0
+  message: "Hello from Dev Environment! [已更新]"
+  version: 2.0
+  author: "developer"
