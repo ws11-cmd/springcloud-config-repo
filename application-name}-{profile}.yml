@@ -1,0 +1,5 @@
+server:
+  port: 8101
+my:
+  message: "Hello from Dev Environment!"
+  version: 1.0
