@@ -1,0 +1,5 @@
+server:
+  port: 8102
+my:
+  message: "Hello from Prod Environment!"
+  version: 1.0
